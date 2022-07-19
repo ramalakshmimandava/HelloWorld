@@ -8,11 +8,11 @@
   <name>JavaHelloWorld</name>
   <url>http://maven.apache.org</url>
   <dependencies>
-     <dependency>
+     /*<dependency>
       <groupId>org.apache.maven.plugin-tools</groupId>
       <artifactId>maven-plugin-annotations</artifactId>
       <scope>provided</scope>
-    </dependency>
+    </dependency>*/
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
